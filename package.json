@@ -1,0 +1,27 @@
+{
+  "name": "uebersicht-boilerplate",
+  "version": "0.1.0",
+  "description": "A jump-start for Übersicht widget development.",
+  "keywords": [
+    "übersicht",
+    "übersicht-widget",
+    "boilerplate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthias-vogt/uebersicht-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matthias-vogt/uebersicht-boilerplate/issues"
+  },
+  "author": {
+    "name": "Matthias Vogt",
+    "email": "matthias@mvogt.me",
+    "url": "https://github.com/matthias-vogt/"
+  },
+  "homepage": "https://github.com/matthias-vogt/uebersicht-boilerplate",
+  "license": "ISC",
+  "scripts": {
+    "test": "bash ./src/command.sh"
+  }
+}
