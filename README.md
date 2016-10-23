@@ -7,3 +7,5 @@ With uebersicht-boilerplate, you can make Übersicht widgets that use node modul
 It works by executing a js file with node, writing the output to a file and using cat to pipe the output to Übersicht.
 
 Intended as a temporary hack until this is officially supported.
+
+Also gives you a nice way of passing options to your widget.
